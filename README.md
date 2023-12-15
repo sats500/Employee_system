@@ -5,3 +5,7 @@
 This repo contains two folders one for the frontend and another for the backend. Clone the repo and in the server folder create one .env file and paste your mongodbURI. After that type npm install and npm run dev this will start your dev server.
 
 The frontend folder contains the React app. Type npm install to install the dependencies and then type npm start to start the frontend.
+
+# <h2> Built with</h2>
+# <h3>Tech stack</h3>
+[![Skills](https://skills.thijs.gg/icons?i=js,html,css,react,nodejs,express)](https://skills.thijs.gg)
